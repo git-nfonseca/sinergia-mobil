@@ -56,6 +56,37 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Imagenes
+### Imagenes de la aplicacion movil
+
 
 ![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/3695b5f5b61bc0476ecc1584bb5b759483705663/assets/Screenshot%20from%202022-11-12%2022-59-16.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-01-42.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-02-29.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-07-19.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-08-01.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-08-49.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-09-30.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-10-10.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-11-03.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-12-20.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-14-06.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-14-57.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-17-50.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-18-45.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-22-54.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/445f68be8364ef0af9690f569e44e6777248131d/assets/Screenshot%20from%202022-11-12%2023-23-58.png)
