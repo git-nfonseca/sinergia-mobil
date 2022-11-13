@@ -58,5 +58,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Imagenes
 
-![Presentacion inicial de la aplicacion movil]
-(https://github.com/git-nfonseca/sinergia-mobil/blob/master/assets/Screenshot%20from%202022-11-12%2022-59-16.png)
+![Image text](https://github.com/git-nfonseca/sinergia-mobil/blob/3695b5f5b61bc0476ecc1584bb5b759483705663/assets/Screenshot%20from%202022-11-12%2022-59-16.png)
